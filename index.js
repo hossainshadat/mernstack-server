@@ -40,3 +40,5 @@ app.get("/course/:id", (req, res) => {
 app.listen(port, () => {
   console.log("Mern Development Server is running on Port:", port);
 });
+
+module.exports = app;
