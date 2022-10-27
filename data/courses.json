@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "price": 10,
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ytimg.com/vi/kMT54MPz9oE/maxresdefault.jpg",
+    "image_url": "https://i.ytimg.com/vi/kMT54MPz9oE/maxresdefault.jpg",
+    "details": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "price": 30,
+    "title": "The Complete 2022 Web Development Bootcamp",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+    "image_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+    "details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "03",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "price": 40,
+    "title": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6ii70TL2R6afn7mKeHfX",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6ii70TL2R6afn7mKeHfX",
+    "details": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2022."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "04",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "price": 20,
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux) ",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://miro.medium.com/max/750/1*vJgCHEOEJrAn_pU7hVhkKQ.jpeg",
+    "image_url": "https://miro.medium.com/max/750/1*vJgCHEOEJrAn_pU7hVhkKQ.jpeg",
+    "details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!"
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "price": 30,
+    "title": "React.js & Firebase Project - ReactJS 18, Firebase 9 Project",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://miro.medium.com/max/800/1*E5NIMepYykXPcaEdae3kbw.png",
+    "image_url": "https://miro.medium.com/max/800/1*E5NIMepYykXPcaEdae3kbw.png",
+    "details": "React.js and Firebase portfolio project. Build Realtor (Real estate) clone using React js 18, Firebase 9, Tailwind CSS 3"
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "price": 20,
+    "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2022",
+    "author": {
+      "name": "Shatos",
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/nodejs-reference-architecture_1x.png?itok=MqGeWTLm",
+    "image_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/nodejs-reference-architecture_1x.png?itok=MqGeWTLm",
+    "details": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)"
+  }
+]
