@@ -6,7 +6,7 @@ Vercel, corsand others
 
 Hosted in firebase -> [Quality Learning App](https://mern-development-server.vercel.app/category/07)
 
-## React Router Dom v6.4
+## Github Link
 
 Github Link -> [client side Link](https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-hossainshadat)
 
